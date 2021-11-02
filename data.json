@@ -1,0 +1,28 @@
+{
+    "product table":[
+        {
+            "id_product": "12934",
+            "reference": "khfq09024",
+            "description":"Cama grande",
+            "unit":"10",
+            "SalePrice":"500000",
+            "Status":"Avaiable"
+        },
+        {
+            "id_product": "4091285",
+            "reference": "af19sjh2",
+            "description":"Sofa Cama",
+            "unit":"30",
+            "SalePrice":"600000",
+            "Status":"Avaiable"
+        },
+        {
+            "id_product": "914512",
+            "reference": "pqovu19",
+            "description":"Silla",
+            "unit":"0",
+            "SalePrice":"500000",
+            "Status":"Not Avaiable"
+        }
+    ]
+}
